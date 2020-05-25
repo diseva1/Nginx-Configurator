@@ -42,7 +42,7 @@ What things you need to install the software(not including the python modules):
 
 ## Authors
 
-* **Diego Serrano** a.k.a. DISEVA1 -->  [Github](https://github.com/diseva1) & [Twitter](https://twitter.com/dsv_dev)
+* **Diego Serrano** a.k.a. DISEVA -->  [Github](https://github.com/diseva1) & [Twitter](https://twitter.com/dsv_dev)
 
 
 ## License
